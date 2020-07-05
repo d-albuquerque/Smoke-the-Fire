@@ -1,7 +1,8 @@
 # Smoke the Fire
 
-This is a project completed in 2017, to find out more contact me.
 This is a public version of a private repository. Only little information can be found here.
+
+This is a project completed in 2017, to find out more contact me.
 
 ## Introduction
 
