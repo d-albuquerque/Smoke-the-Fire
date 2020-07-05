@@ -28,4 +28,4 @@ This is a project completed in 2017, to find out more contact me.
 Note that this repository is not complete. This is a public version of a private repository.
 
 
-![alt text](https://github.com/d-albuquerque/Smoke-the-Fire/Smoke-the-Fire/blob/master/quote.PNG?raw=true)
+![alt text](https://github.com/d-albuquerque/Smoke-the-Fire/blob/master/quote.PNG?raw=true)
