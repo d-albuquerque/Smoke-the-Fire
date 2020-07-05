@@ -1,5 +1,6 @@
 # Smoke the Fire
 
+This is a project completed in 2017, to find out more contact me.
 This is a public version of a private repository. Only little information can be found here.
 
 ## Introduction
@@ -23,8 +24,6 @@ Here you can see what the site was like, there is a server that communicates wit
 ![alt text](https://github.com/d-albuquerque/Smoke-the-Fire/blob/master/site_tour.gif?raw=true)
 
 There is a promoter video in Portuguese: https://youtu.be/lm4-HQ3rrdI
-
-This is a project completed in 2017, to find out more contact me.
 
 Note that this repository is not complete. This is a public version of a private repository.
 
