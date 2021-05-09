@@ -20,11 +20,10 @@ In addition there is an RF antenna for the devices to communicate with each othe
 
 ## Website and server
 
-Here you can see what the site was like, there is a server that communicates with the site to show on a site the devices that have detected a fire.
+Here you can see what the site was like, there is a server that communicates with the site to show the devices that have detected a fire.
 
 ![alt text](https://github.com/d-albuquerque/Smoke-the-Fire/blob/master/site_tour.gif?raw=true)
 
-There is a promoter video in Portuguese: https://youtu.be/lm4-HQ3rrdI
 
 Note that this repository is not complete. This is a public version of a private repository.
 
